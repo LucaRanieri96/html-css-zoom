@@ -35,5 +35,40 @@ body {
     position: fixed;
     bottom: 0;
     width: 100vw;
-    height: 6rem;
+    height: 7rem;
   }
+.square{
+   margin: 1rem;
+   
+}
+.d-flex{
+    display: flex;
+}
+.align-item{
+    align-items: center;
+    justify-content: space-between;
+}
+div > i {
+    font-size: 3rem;
+    margin: 1rem;
+    
+}
+h4{
+    text-align: center;
+}
+.white{
+    color: white;
+    align-self: center;
+    font-weight: 800;
+}
+.green{
+    color: green;
+    align-self: center;
+    font-weight: 800;
+}
+.justify-c{
+    justify-content: center;
+}
+#id-right{
+    
+}
