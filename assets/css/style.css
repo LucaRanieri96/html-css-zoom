@@ -8,4 +8,24 @@ body {
     font-family: 'Nunito Sans', sans-serif;
     font-family: 'Source Sans Pro', sans-serif;
     font-family: 'Ubuntu', sans-serif;
+    background-color: black;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 5rem 3rem 0 3rem;
+}
+.relative{
+    position: relative;
+}
+.grid img {
+    margin: 0.3rem
+}
+.name{
+    position: absolute;
+    bottom: 0.3rem;
+    left: 0.3rem;
+    background-color: rgba(82, 82, 82, 40);
 }
