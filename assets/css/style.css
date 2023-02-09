@@ -29,3 +29,11 @@ body {
     left: 0.3rem;
     background-color: rgba(82, 82, 82, 40);
 }
+.navbar {
+    background-color: #333;
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100vw;
+    height: 6rem;
+  }
