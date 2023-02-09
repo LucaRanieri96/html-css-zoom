@@ -69,6 +69,7 @@ h4{
 .justify-c{
     justify-content: center;
 }
-#id-right{
-    
+#right{
+    margin: 1rem;
+    background-color:rgba(255, 255, 255, 0.301);;
 }
